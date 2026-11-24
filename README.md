@@ -8,6 +8,10 @@ Reduce 4D Iris data to 2 principal components and visualize species separation.
 
 PCA via SVD: compute components that capture maximal variance.
 
+## THEORY: 
+
+PCA finds orthogonal directions of maximal variance (eigenvectors of covariance matrix).
+
 ## PROGRAM:
 
 ```
@@ -36,10 +40,6 @@ plt.ylabel('PC2'); plt.title('PCA of Iris'); plt.show()
 Explained variance ratio: [0.9246 0.0531]
 
 ```
-
-## THEORY: 
-
-PCA finds orthogonal directions of maximal variance (eigenvectors of covariance matrix).
 
 ## RESULT:
 
