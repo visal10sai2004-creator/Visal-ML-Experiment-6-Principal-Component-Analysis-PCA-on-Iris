@@ -1,4 +1,4 @@
-## Principal Component Analysis (PCA) on Iris
+## Experiment 6: Principal Component Analysis (PCA) on Iris
 
 ## AIM:
 
